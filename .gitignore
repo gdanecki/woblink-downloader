@@ -1,0 +1,16 @@
+# środowisko Pythona
+.venv/
+__pycache__/
+
+# profil przeglądarki z zalogowaną sesją Woblink - nigdy nie commitować
+browser-profile/
+
+# pobrane książki i dane z uruchomień
+ksiazki/
+debug/
+done.txt
+failed.txt
+errors.log
+
+# macOS
+.DS_Store
